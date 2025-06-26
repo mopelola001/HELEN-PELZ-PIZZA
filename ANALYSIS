@@ -1,0 +1,125 @@
+# HELEN-PELZ-PIZZA
+It provides strategic insights into customer preferences, high-performing products, and time-based sales trends, aiding data-driven decisions in marketing and inventory management.
+
+---
+# 🍕 Helen Pelz Pizza Sales Performance Analysis - 2015
+
+![Pizza Sales Dashboard](./Task%2035bHelen%20Pelx%20Pizza.png)
+
+---
+
+## Objective
+
+The objective of this analysis is to evaluate **Helen Pelz Pizza’s overall sales performance for the year 2015**, using key metrics such as total quantity sold, revenue generated, and customer preferences by pizza size, category, and specific pizza names.  
+This analysis reveals **key sales patterns**, **customer preferences**, and **performance indicators** derived from historical data, guiding:
+
+- Strategic business decisions
+- Operational efficiency
+- Optimized marketing initiatives
+
+---
+
+## Expectations
+
+- Understand sales trends and performance distribution across months
+- Identify the best-performing pizza category, size, and pizza name
+- Determine which product areas need improvement
+- Provide actionable insights for inventory, marketing, and sales strategies
+
+---
+
+## Business Questions
+
+- What are the top-performing pizzas by revenue and quantity?
+- How do pizza size and category affect revenue?
+- Which months, days, or hours generate the highest sales?
+- Are there seasonal sales trends?
+- Which product lines or ingredients are most frequently ordered?
+
+---
+
+## In-Depth Analysis
+
+### 1. 🧾 Sales Overview
+- **Total Quantity Sold:** 50K units  
+- **Total Revenue:** £817K  
+- **Top-Selling Pizza Name:** Thai Chicken Pizza  
+- **Top Category:** Classic  
+- **Most Popular Size:** Large  
+
+> _Revenue is calculated using the total price column._
+
+---
+
+### 2. 📈 Monthly Sales Trend
+
+- Sales peaked in **July (£72.6K)** and **May (£71.4K)**.
+- **September and October** saw the lowest sales — potential seasonal dips.
+
+---
+
+### 3. 🍕 Performance by Pizza Size
+
+- **Large (L)** pizzas lead in both unit price and total revenue (~£0.37M).
+- **Medium (M)** and **Small (S)** follow.
+- **XL and XXL** sizes contribute minimally to sales.
+
+---
+
+### 4. 🔝 Top Pizzas by Total Revenue
+
+- **Thai Chicken Pizza:** £43K  
+- **Barbecue Chicken Pizza:** £43K  
+- **California Chicken Pizza:** £41K  
+- Others include:
+  - The Classic Deluxe Pizza
+  - The Spicy Italian Pizza
+
+---
+
+### 5. 📦 Pizza Category Distribution (by Quantity)
+
+- **Classic:** 30.03%  
+- **Supreme:** 24.18%  
+- **Veggie:** 23.5%  
+- **Chicken:** 22.29%
+
+---
+
+### 6. 🕓 Time-Based Performance
+
+- **Date Range:** 01/01/2015 – 31/12/2015  
+- **Daily Trends:** Stronger sales on weekends  
+- **Monthly Trends:** Higher sales in **summer (June–August)** and **December**  
+- **Hourly Trends:** Peak during:
+  - **Lunch (11 AM–2 PM)**
+  - **Dinner (5 PM–8 PM)**
+
+---
+
+## Observations Board
+
+- **Classic pizzas** are the most preferred category.
+- **Large pizzas** are highly profitable.
+- **Sales dip in September and October** suggests seasonality or missed promotions.
+- **Chicken-based pizzas dominate** top sales spots.
+- **XL and XXL sizes underperform** significantly.
+- **Weekends (Fri–Sun)** show peak sales.
+- **Lunch and dinner hours are most active.**
+- **February sales are lower**, while **December shows a holiday spike**.
+- **Complex pizzas** have higher prices but may sell less frequently.
+
+---
+
+## Recommendations Board
+
+- **Promote Large Classic Pizzas** during low-sales months (e.g., September/October).
+- **Expand marketing of top variants** like Thai Chicken & California Chicken Pizzas.
+- **Re-evaluate XL and XXL** — consider bundling or discontinuation.
+- **Launch seasonal combos** or family deals in Q3 and weekends.
+- **Collect customer feedback** on underperforming products.
+- **Drive off-peak sales** (e.g., February) using discounts or bundles.
+- **Upsell with add-on deals**: drinks, sides, and desserts.
+- **Use limited-time offers (LTOs)** with popular ingredients.
+- **Target ads around lunch/dinner times**, especially on weekends.
+- **Optimize inventory** around top 10 best-sellers to reduce waste.
